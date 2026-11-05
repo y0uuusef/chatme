@@ -1,0 +1,18 @@
+{
+  "name": "chatme",
+  "version": "1.0.0",
+  "description": "An open-source real-time messaging and bot communication framework",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chat",
+    "bot",
+    "realtime",
+    "messaging",
+    "api"
+  ],
+  "author": "y0uuusef",
+  "license": "MIT"
+}
